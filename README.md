@@ -18,3 +18,13 @@ features:
       subtraction
       multiplication
       division
+
+Task 3 contact book 
+A simple calculator application developed using Python.
+It allows users to add, view, search, update,and delete contacts. 
+features:
+      add contacts
+      view contacts
+      search contacts
+      update contacts
+      delete contacts
