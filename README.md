@@ -28,10 +28,19 @@ features:
       search contacts
       update contacts
       delete contacts
-      
+
 Task 4 password generator
 A simple Python Password Generator project. It creates strong and random passwords based on the length entered by the user.
 features:
-    Generates random password
+      Generates random password
     Include uppercase letters, lowercase letters, numbers, and special characters.
     Easy to use
+
+Task 5 Rock Paper Scissors
+A simple Rock Paper Scissors game developed using Python.
+features:
+      User vs Computer gameplay
+      Random computer choice
+      Easy-to-use console interface
+Technologies used:
+      Python
